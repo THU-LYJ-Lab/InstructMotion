@@ -1,6 +1,7 @@
 # Official repository for CVPRW 2024 HuMoGen paper "Exploring Text-to-Motion Generation with Human Preference"
 
 ## Directory structure
+**`assets/`**: contains the generated motions from MotionGPT, PPO, and DPO models for the demo.
 
 **`checkpoints/`**: 
 - `MotionGPT-base/` - finetuned MotionGPT model.
