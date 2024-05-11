@@ -38,8 +38,8 @@
 
 
 ## Installations
-1. Download the preference dataset at [cloud (code xky8)](https://pan.baidu.com/s/1-07tLTZdEdsHfMfBHMctuA) and put it at `preference_data/`
-3. Download our checkpoints from [cloud (code sxx5)](https://pan.baidu.com/s/1euBCQOE2EG90VHj94Yty-Q) and put them at `checkpoints/`
+1. Download the preference dataset at [cloud (code 6gcq)](https://pan.baidu.com/s/1d4lhAdpCT1-cKf2PaHxJgw?pwd=6gcq) and put it at `preference_data/`
+3. Download our checkpoints from [cloud (code 8ig7)](https://pan.baidu.com/s/1M4-UuGhvu-bk5-J_k68ezg?pwd=8ig7) and put them at `checkpoints/`
 2. Download the HumanML3D dataset from [https://github.com/EricGuo5513/HumanML3D](https://github.com/EricGuo5513/HumanML3D), preprocess it according to their instructions, and put it under `MotionGPT/datasets/`
 3. Set up environment according to [MotionGPT](https://github.com/OpenMotionLab/MotionGPT?tab=readme-ov-file#-quick-start) setup instructions below:
 ```conda create python=3.10.6 --name mgpt
